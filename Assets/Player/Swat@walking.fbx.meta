@@ -156,7 +156,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    motionNodeName: swat:Hips/swat:Spine
+    motionNodeName: swat:Hips
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
